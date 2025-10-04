@@ -6,10 +6,15 @@ This repository contains files related to assignment 4.
 
 <ul>
 <li>astrocomp assignment 4 PDF</li>
-I uploaded a PDF file containing the questions for Assignment 4. This uploaded PDF is part of answering Question 1, which asks us to push some content into the GitHub main branch
+I uploaded a simple code. This uploaded code file is part of answering Question 1, which asks us to push some content into the GitHub main branch
 
-<li>Q2 and Q3</li>
-I also have directories named Q2 and Q3, each containing the files related to the answers for Question 2 and Question 3, respectively
+<li>Q2_Assignment4_astrocomp.ipynb </li>
+I also have Q2_Assignment4_astrocomp.ipynb (code file), which containing the code related to the Question 2 and Question 3
+
+<li>data and figures </li>
+I saved all of my figures and data from Q2 and Q3 into these directories. 
+
+
 
 
 </ul>
